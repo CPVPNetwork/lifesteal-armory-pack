@@ -3,4 +3,6 @@
 Texturpack für das LifestealArmory-Plugin (Minecraft Java 1.21.4+).
 5 Sets (Heartreaver, Soul Harvester, Heart Monarch, Bloodmoon Vampire, Totem Warden) mit 3D-Helmen, Rüstungstexturen und Waffen.
 
-Download: siehe [Releases](../../releases/latest).
+Direkter Download: https://raw.githubusercontent.com/CPVPNetwork/lifesteal-armory-pack/main/LifestealArmory.zip
+
+SHA1: `665c60d322bf987176e2b45b0ed724ad6f9a59ba`
