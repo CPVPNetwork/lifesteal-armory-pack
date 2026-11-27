@@ -5,4 +5,4 @@ Texturpack für das LifestealArmory-Plugin (Minecraft Java 1.21.4+).
 
 Direkter Download: https://raw.githubusercontent.com/CPVPNetwork/lifesteal-armory-pack/main/LifestealArmory.zip
 
-SHA1: `097ae25e59a9f763cb09c58ca31482b4bf1145d4`
+SHA1: `50b41db92fb35b5171520fe1fe345e535bc02aa0`
